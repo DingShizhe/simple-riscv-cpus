@@ -1,0 +1,7 @@
+# ignore
+
+scripts/single_cycle_riscv_cpu/
+
+scripts/vivado*
+
+scripts/.Xil/*

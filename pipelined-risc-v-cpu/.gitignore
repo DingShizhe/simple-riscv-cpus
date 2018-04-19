@@ -1,0 +1,9 @@
+# ignore
+
+scripts/pipelined_riscv_cpu/
+
+scripts/vivado*
+
+scripts/nohup*
+
+scripts/.Xil/*
